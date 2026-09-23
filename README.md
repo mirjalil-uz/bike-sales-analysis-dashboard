@@ -1,3 +1,4 @@
+<img width="1031" height="602" alt="dashboard" src="https://github.com/user-attachments/assets/24633183-3d98-4b8d-b79c-aa71eed69fba" />
 # 🚲 Bike Sales Analysis & Dashboard
 
 ## 📌 Overview
